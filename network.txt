@@ -2,6 +2,6 @@ VPC
 
 Public Subnet
 
-Private Subnet
+Private Subnet - 172.16.1.0/24
 
 Private Subnet 2
