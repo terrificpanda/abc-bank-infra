@@ -3,3 +3,5 @@ VPC
 Public Subnet
 
 Private Subnet
+
+Private Subnet 2
